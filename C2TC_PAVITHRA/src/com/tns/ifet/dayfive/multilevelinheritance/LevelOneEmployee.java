@@ -1,6 +1,7 @@
 package com.tns.ifet.dayfive.multilevelinheritance;
 import java.util.Date;
-import com.tns.ifet.dayfive.Employee;
+
+import com.tns.ifet.dayfive.hierarchicalinheritance.Employee;
 public class LevelOneEmployee extends Employee {
     private int noOfShares;
     private String authority;
