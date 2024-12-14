@@ -1,5 +1,7 @@
 package com.tns.ifet.daythree;
 import java.util.Scanner;
+
+import com.tns.ifet.dayfifteen.Person;
 public class PersonDemo {
 public static void main(String[] args) {
 Scanner ob = new Scanner(System.in);
